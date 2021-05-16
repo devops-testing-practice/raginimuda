@@ -1,3 +1,5 @@
 this is devops training
 
-sample file for staging, committing and pushing 
+sample file for staging, committing and pushing
+
+sample2 modifying the file 
